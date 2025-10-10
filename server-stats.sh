@@ -3,7 +3,7 @@
 #Author: almas-the-fixer
 #Date: 10th Oct 2025
 #Version: v1.0
-#Description: Prints Server Performance such as CPU Usage, Disk Usage, Top 5 Memory and CPU Consuming Processes}'
+#Description: Prints Server Performance such as CPU Usage, Disk Usage, Top 5 Memory and CPU Consuming Processes
 
 echo "===== SERVER PERFORMANCE STATS ====="
 
