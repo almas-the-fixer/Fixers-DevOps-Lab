@@ -18,7 +18,7 @@ printf "\n\n"
 
 echo "=====Disk Usage====="
 printf "\n"
-echo "Fetching Disk Usage..."
+echo "Fetching Disk Usage ('/' Mount Point!)..."
 printf "\n"
 echo "Total % of Disk Used: $(df -h | grep "/$" | awk '{print $5}')"
 printf "\n\n"
