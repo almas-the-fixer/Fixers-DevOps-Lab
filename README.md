@@ -36,6 +36,7 @@ Key concepts: Linux commands, shell scripting, system monitoring
 ** 2. Log Archiving Script
 
 - A script that compresses and archives log files based on date or size thresholds to keep systems organized and storage efficient. Can be scheduled with cron for automated log management.
+
 ** 3. Nginx Log Analyser Script
 
 - A Script that takes a nginx log file as an input and gives out insightful metrics such as Top Ip Addresses with most request etc.
