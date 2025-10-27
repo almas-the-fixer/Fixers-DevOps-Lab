@@ -7,12 +7,15 @@ Project 2 URL: [https://roadmap.sh/projects/log-archive-tool]
 
 Project 3 URL: [https://roadmap.sh/projects/nginx-log-analyser]
 
+Project 4 URL: [https://roadmap.sh/projects/github-actions-deployment-workflow]
+
 This repository serves as a practical learning ground covering key DevOps tools, concepts, and workflows.
 
 📁 Repository Structure
 This repo is organized into multiple folders — each representing an individual lab or project. Each lab focuses on a specific DevOps concept or tool and is self-contained with its own documentation, configurations, and code.
 
 Fixers-DevOps-Lab
+├── gh-deployment-workflow
 ├── log-archive-tool-roadmap.sh
 │   ├── log-archiver.sh
 │   └── README.md
@@ -20,11 +23,10 @@ Fixers-DevOps-Lab
 │   ├── nginx-access.log
 │   ├── nginx-logs-analyzer.sh
 │   └── README.md
-├── README.md --> You Are Here!
+├── README.md
 └── ServerStat-roadmap.sh
     ├── README.md
     └── server-stats.sh
-
 
 💡 Each project folder contains its own README.md explaining the project goal, setup instructions, and how the script works.
 
@@ -41,6 +43,10 @@ Key concepts: Linux commands, shell scripting, system monitoring
 
 - A Script that takes a nginx log file as an input and gives out insightful metrics such as Top Ip Addresses with most request etc.
 Follow the instructions in that project’s README.md
+
+** 4. Github Deployment Workflow
+
+- The goal of this project is to help you learn the notion of continuous integration and continuous deployment. You will write a simple GitHub Actions workflow to deploy a static website to GitHub Pages.
 
 🧠 Purpose
 This repository is part of a learning journey through the DevOps Roadmap — building a portfolio of practical projects that strengthen command-line, automation, and scripting skills.
