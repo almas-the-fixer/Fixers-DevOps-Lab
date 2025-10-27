@@ -1,3 +1,5 @@
+> Update Due to the problems in managing all labs in this one repository I have decided to move some projects or start new repos for other projects in order to isolate the projects that can eventually get messy with multiple workflows!
+
 🧰 Fixers DevOps Lab
 Welcome to Fixers DevOps Lab — a collection of hands-on projects and exercises based on the DevOps Roadmap. It can be Found Here: [https://roadmap.sh/devops]
 
